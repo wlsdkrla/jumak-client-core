@@ -1,0 +1,1 @@
+# jumak-client-core
